@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![My Photo](images/profile-pic.png)
 <!--
 **dev-arrow/dev-arrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
